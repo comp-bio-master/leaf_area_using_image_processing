@@ -8,7 +8,11 @@
 
 ## Description of Assignment 
 
-* Complete exercise 8.23.3 in the text
+* Complete exercise 8.23.3 in the CSB text
+
+![](8_23_3_1.jpg)
+
+![](8_23_3_2.jpg)
 
 ## Submission
 
