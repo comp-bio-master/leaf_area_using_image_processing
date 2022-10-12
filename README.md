@@ -1,4 +1,4 @@
-# Assignment 11
+# Assignment 6: Leaf area
 
 ## Due 10/09
 
