@@ -10,9 +10,8 @@
 _repalace the current assignment with a modified assignment based on this email_
 
 ```
-Hi All,
-I noticed some issues with the last set of instructions, so please see the updates here. Ignore the last email that looks similar to this one.
 Here are some tips to get assignment 6 set up.
+
 1. Install Rtools by downloading the install package from the web then double clicking it and following the prompts.  This is a very large download and will take several minutes
 2. While Rtools is downloading, set up your assignment repo
 
@@ -38,11 +37,14 @@ Here are some tips to get assignment 6 set up.
        i.	ncol() returns the number of rows, ncol() + 1 is the "next row" 
        ii.	create a vector using c()
 
-And you should be on your way.  Again, consult the pseudocode and solution if you get stuck, and try to understand what's happening. 
+And you should be on your way.  Again, consult the pseudocode and solution if you get stuck, and try to understand what's happening.
+
 Make sure you save your script!
+
 Make sure you use git to log your changes to the assignment repo and push to github each time you walk away from your computer.  This is about building good habits, and saving your work just in case lightning strikes your computer.
+
 Good luck!
-Chris
+
 
 ```
 
