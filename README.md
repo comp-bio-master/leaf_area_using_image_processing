@@ -1,4 +1,4 @@
-# Assignment 6: Leaf area (Needs Updating)
+# Assignment 6: Leaf area
 
 ## Computer Preparation
 
