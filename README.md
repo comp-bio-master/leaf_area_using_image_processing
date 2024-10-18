@@ -1,7 +1,5 @@
 # Assignment 6: Leaf area (Needs Updating)
 
-## Due 10/09
-
 ## Computer Preparation
 
 * Open R-Studio
