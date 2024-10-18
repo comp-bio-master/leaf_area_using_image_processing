@@ -16,7 +16,7 @@ Here are some tips to get assignment 6 set up.
 2. While Rtools is downloading, set up your assignment repo
 
    a.	clone the repo 
-   b.	copy the `r` dir in the CSB repo to your homework repo 
+   b.	the `r` dir from the CSB repo is in this repo 
    c.	make an R script file in `r/sandbox` and open it 
    d.	add the "magic" line of code that we learned in the lecture for setting your working dir to the same location as your script, and run it 
    e.	read leaf area question
