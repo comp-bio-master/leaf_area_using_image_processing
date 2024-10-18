@@ -53,3 +53,10 @@ Chris
 ## Submission
 
 Submit updating this repo and pushing it to GitHub
+
+```bash
+#be sure to cd into your repo before running the following commands
+git add --all
+git commit -m "completed assignment!"
+git push
+```
