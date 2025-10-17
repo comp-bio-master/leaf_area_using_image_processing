@@ -43,12 +43,17 @@ sudo apt install build-essential r-base-dev gfortran pkg-config libcurl4-openssl
 
 3. After Rtools is installed
 
-   a.	Install EBImage by going to its github page (google search "github EBImage") and follow the install instructions 
-   b.	then load EBImage with the library() command 
-   c.	add a line of code to your script to "source" the file with the leaf area function, execute, and you should now see the function in the "environment" (upper right panel) 
+   a.	Install EBImage by going to its github page (google search "github EBImage") and follow the install instructions
+
+      i. check the output for the word "error".  use chatgpt to troubleshoot.  For Mac and Linux, you will likely need to install additional dependencies in the bash terminal. After installing the dependencies, try installing EBImage again.
+   
+   b.	then load EBImage with the library() command
+   
+   c.	add a line of code to your script to "source" the file with the leaf area function, execute, and you should now see the function in the "environment" (upper right panel)
+   
    d.	try out the function by running it on in image (see question for the path to the leaf images)
 
-4. You can consult the psuedo code and solutions to help you through this, they are in the `CSB/r` dir, but here are some additional hints for part 1
+5. You can consult the psuedo code and solutions to help you through this, they are in the `CSB/r` dir, but here are some additional hints for part 1
 
    a.	use list.files() to save the names of the images into a variable 
    b.	before the for loop, you need to create the data frame, define the columns, and save the empty dataframe into a variable 
