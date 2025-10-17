@@ -9,7 +9,8 @@
 * Complete exercise 8.23.3 in the CSB text
 _repalace the current assignment with a modified assignment based on this email_
 
-```
+---
+
 Here are some tips to get assignment 6 set up.
 
 1. Install Rtools (windows only) by downloading the install package from the web then double clicking it and following the prompts.  This is a very large download and will take several minutes
@@ -77,7 +78,7 @@ Make sure you use git to log your changes to the assignment repo and push to git
 Good luck!
 
 
-```
+---
 
 ![](8_23_3_1.jpg)
 
