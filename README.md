@@ -28,7 +28,13 @@ brew install openssl curl libxml2
 ```bash
 sudo apt update
 sudo apt upgrade
-sudo apt install build-essential r-base-dev gfortran pkg-config libcurl4-openssl-dev libssl-dev libxml2-dev
+sudo apt install gfortran libssl-dev
+sudo apt install -y \
+  build-essential pkg-config \
+  libtiff-dev libfftw3-dev \
+  libpng-dev libjpeg-dev \
+  libcurl4-openssl-dev libxml2-dev \
+  r-base-dev
 ```
 
 2. While Rtools is downloading, set up your assignment repo
