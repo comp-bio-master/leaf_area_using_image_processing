@@ -12,14 +12,34 @@ _repalace the current assignment with a modified assignment based on this email_
 ```
 Here are some tips to get assignment 6 set up.
 
-1. Install Rtools by downloading the install package from the web then double clicking it and following the prompts.  This is a very large download and will take several minutes
+1. Install Rtools (windows only) by downloading the install package from the web then double clicking it and following the prompts.  This is a very large download and will take several minutes
+
+1b. For mac users, install XQuartz and run the following commands in your bash terminal to install additional packages:
+
+```bash
+xcode-select --install
+brew install gcc
+brew install pkg-config
+brew install openssl curl libxml2
+```
+
+1c. For ubuntu users, run the following commands in your bash terminal to install dependencies
+
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install build-essential r-base-dev gfortran pkg-config libcurl4-openssl-dev libssl-dev libxml2-dev
+```
+
 2. While Rtools is downloading, set up your assignment repo
 
-   a.	clone the repo 
-   b.	the `r` dir from the CSB repo is in this repo 
-   c.	make an R script file in `r/sandbox` and open it 
-   d.	add the "magic" line of code that we learned in the lecture for setting your working dir to the same location as your script, and run it 
-   e.	read leaf area question
+   a.	clone the repo
+       
+   b.	make an R script file in `r/sandbox` and open it
+   
+   c.	add the "magic" line of code that we learned in the lecture for setting your working dir to the same location as your script, and run it
+   
+   d.	read leaf area question
 
 3. After Rtools is installed
 
